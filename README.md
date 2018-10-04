@@ -21,3 +21,5 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
+## 参考
+https://www.non-standardworld.co.jp/nuxt-js-firebase/20338/
